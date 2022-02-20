@@ -82,7 +82,7 @@
 
     /* interface */
 
-    --homeInterface: url(/static/youtube_tracker/images/home-interface.svg);
+    --homeInterface: url(interface.svg);
     /* --profilePhoto: url(/static/youtube_tracker/profiles/elon.png); */
 
     
