@@ -23,7 +23,7 @@
 
 
 /** General ***/
- 
+
 div#narrative-tree {
 
     display: flex;
@@ -588,6 +588,13 @@ div#narrative-tree div#preview-column.column.active {
 
     border-left-color: var(--purplish);
 
+}
+div#narrative-tree div#preview-column img{
+     
+max-width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: contain;
 }
 
 div#narrative-tree div#preview-column div.head div.counter {
