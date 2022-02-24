@@ -421,6 +421,11 @@ div#narrative-tree div#entities-column ul.items-list > li.group ul.subitems-list
     opacity: 0.5;
 
 }
+.post-comments{
+    background-image: url(home-interface.svg);
+    background-position: 265px 238px;
+    background-color: black;
+}
 
 
 /** Narratives Column **/
