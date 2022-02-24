@@ -241,7 +241,7 @@ div#entities-controls button  {
     margin-right: 10px;
     vertical-align: top;
     border-radius: var(--radius1000);
-    background-image: var(--interface);
+    background-image:url(interface.svg);
     background-position: -102px -818px;
 
 }
@@ -254,7 +254,7 @@ div#entities-controls button#cancel-button  {
 
 div#entities-controls button:hover  {
 
-    background-color: var(--blue2Light);
+    background-color: var(--greenish);
 
 }
 div#narrative-tree div#entities-column  {
