@@ -672,11 +672,12 @@ section#modals div#video.modal div#tools div#details div#head div#statistics {
  div#statistics div span#icon {
 
     height: 32px;
-    background-image: url(home-interface.svg);
+   
     background-repeat: no-repeat;
     background-position-y: -234px;
     margin-right: 2px;
     transform: scale(0.8);
+    background-image: url(home-interface.svg);
 
 }
 
