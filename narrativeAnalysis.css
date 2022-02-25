@@ -667,4 +667,78 @@ ul#submenu li:hover {
 
 }
 
+section#modals div#video.modal div#tools div#details div#head div#statistics {
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: var(--whitish);
+
+}
+
+ div#statistics div {
+
+    display: inline-flex;
+    align-content: center;
+    margin-right: 10px;
+
+}
+
+div#statistics div span#icon {
+
+    height: 32px;
+    background-image: url(home-interface.svg);
+    background-repeat: no-repeat;
+    background-position-y: -234px;
+    margin-right: 2px;
+    transform: scale(0.8);
+
+}
+
+ div#statistics div p {
+
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
+
+}
+
+
+
+ div#statistics div#globalTracks span#icon {
+
+    width: 26px;
+    background-position-x: -273px;
+
+}
+
+ div#statistics div#views span#icon {
+
+    width: 30px;
+    background-position-x: -10px;
+
+}
+
+div#statistics div#likes span#icon {
+
+    width: 26px;
+    background-position-x: -167px;
+
+}
+
+ div#statistics div#dislikes span#icon {
+
+    width: 26px;
+    background-position-x: -194px;
+
+}
+
+ div#statistics div#comments span#icon {
+
+    width: 28px;
+    background-position-x: -41px;
+
+}
+
+
+
 
