@@ -517,7 +517,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 this.posts.forEach(element => element.classList.remove(this.selectedClass));
                 event.currentTarget.classList.add(this.selectedClass);
                 // this.previewImage.src = "images/posts/" + (Math.floor(Math.random() * 42) + 1) + ".jpg";
-                this.previewImage.src = "images/posts/123.jpg";
+                this.previewImage.src = "narrative2.png";
                 this.preview.classList.add(this.displayedClass);
                 this.preview.scrollTop = 0;
 
